@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "28C12735-0D60-412D-B8A4-DB9BDBACCD6C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEB89D0F-330C-4E04-A1B0-32C428EAFA2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chicagoArtApp/Pictures Factory/PicturesFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEB89D0F-330C-4E04-A1B0-32C428EAFA2D - c68548cbd05815a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;chicagoArtApp.ArtPicturesStruct, Swift.Error&gt;) -&gt; () in chicagoArtApp.PicturesFactory.loadData() -&gt; ()"
+                  moduleName = "chicagoArtApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegkor/Documents/swift_example/yaPracticum/gitDir/chicagoArtApp/chicagoArtApp/Pictures%20Factory/PicturesFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+               <Location
+                  uuid = "BEB89D0F-330C-4E04-A1B0-32C428EAFA2D - c68548cbd05815a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;chicagoArtApp.ArtPicturesStruct, Swift.Error&gt;) -&gt; () in chicagoArtApp.PicturesFactory.loadData() -&gt; ()"
+                  moduleName = "chicagoArtApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegkor/Documents/swift_example/yaPracticum/gitDir/chicagoArtApp/chicagoArtApp/Pictures%20Factory/PicturesFactory.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3FAC3F7-9621-46C1-A70B-406D799A0709"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chicagoArtApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "didFailToLoadData(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F16E34A-A9CF-4FDE-8460-7DCDC6169D3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chicagoArtApp/NetworkGroup/PicturesLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "loadMovies(handler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
